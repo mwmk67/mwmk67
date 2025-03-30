@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwmk67
-- 👀 I’m interested in all sorts of data related subjects .... and Raspbery Pi
-- 🌱 I’m currently learning Python/Pandas
+- 👀 I’m interested in all sorts of data related subjects .... and Raspbery Pi and rpi pico's
+- 🌱 I’m currently learning Python/micropython
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
